@@ -1,0 +1,9 @@
+images/android_icon.o
+objs/*
+*.*~
+param-parser.pp.c
+param-parser.tab.c
+param-parser.tab.h
+syscall-parser.tab.c
+syscall-parser.tab.h
+syscall-parser.yy.c
