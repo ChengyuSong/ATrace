@@ -1,5 +1,12 @@
 ATrace is a syscall tracer based on Android emulator.
 
+To build it, first run ./atrace-prepare.sh 
+
+(To complie the lex and yacc file, I don't know how to integrate this into 
+ the Makefile, so if you do, please help me. Thanks in advance!)
+
+Then just build it as normal.
+
 - Chengyu
 
 Following is the original README
